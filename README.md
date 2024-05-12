@@ -1,6 +1,7 @@
 # SETGRAPH Fitness Tracker
 
 SETGRAPH is a simple fitness tracker program written in C++. It helps you track your workouts, calculate BMI, and view previous workout logs.
+it uses most of the concepts of Object Oriented Programming.
 
 ## Usage
 
@@ -24,7 +25,7 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 
 ## Credits
 
-SETGRAPH Fitness Tracker was developed by [Your Name].
+SETGRAPH Fitness Tracker was developed by 2 students 23 batch of NUCES PWR. Rayan Hussain and Ismail Mohmand.
 
 ## License
 
